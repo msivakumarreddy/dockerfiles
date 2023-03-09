@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR="SIVAKUMAR REDDY" \
+          PURPOSE="K8 TRAINING"
+          DURATION="25 HRS"
